@@ -1,2 +1,2 @@
 # Note-!t
- A note taking site made with react
+ A note taking site made with reactjs
